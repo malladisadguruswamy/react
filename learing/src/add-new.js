@@ -1,4 +1,4 @@
 // hello im checking you
 
-alert('js'); 
+// alert('js'); 
 console.log('hellow world');
